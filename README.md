@@ -12,9 +12,5 @@
 
 - Check out my <a href="https://ali-mohammed.com">Website</a>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
 
-------
-<!--
 

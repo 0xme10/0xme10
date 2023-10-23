@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **NLP Projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **LeetCode**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 

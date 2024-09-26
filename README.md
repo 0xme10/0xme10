@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali 🧬<img height="40"></h1>
-<h3 align="center">An AUD Computer Engineering Graduate who loves Data </h3>
+<h3 align="center">Computer Engineering Graduate who loves Data </h3>
 
 - 🔭 I’m currently working on my **NLP Projects**
 
